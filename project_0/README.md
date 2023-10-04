@@ -31,7 +31,7 @@
 Учимся писать хороший код на Python
 
 ### Краткая информация о данных
-....
+Вот для примера ссылка на файл на Google Диске https://docs.google.com/spreadsheets/d/1pmg0mzRYI_sLArM_wkDybeJHXojhcMoF/edit?usp=sharing&ouid=114369676551553308323&rtpof=true&sd=true (с доступом к нему)
 
 :arrow_up:[к оглавлению](https://github.com/RomanPenzov/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
